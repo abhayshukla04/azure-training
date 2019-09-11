@@ -28,3 +28,5 @@ Click here : [Docker CE Edge Releases 2018](https://download.docker.com/win/edge
     
 ### Azure Functions
     https://azure.microsoft.com/en-us/services/functions/
+### Traffic Manager
+    https://docs.microsoft.com/en-us/azure/traffic-manager/
