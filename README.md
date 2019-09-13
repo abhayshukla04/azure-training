@@ -36,4 +36,5 @@ Click here : [Docker CE Edge Releases 2018](https://download.docker.com/win/edge
     https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search
 ### Azure Storage
     https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
-    
+### Azure Functions
+    https://docs.microsoft.com/en-us/azure/azure-functions/
